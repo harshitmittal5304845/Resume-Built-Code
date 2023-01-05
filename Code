@@ -1,0 +1,117 @@
+\documentclass[a4paper,10pt]{article}
+%-----------------------------------------------------------
+\usepackage[top=0.75in, bottom=0.75in, left=0.55in, right=0.85in]{geometry}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{palatino}
+\usepackage{tabularx}
+\fontfamily{SansSerif}
+\selectfont
+
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
+
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.75}
+\textheight=9.75in
+\raggedbottom
+
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
+
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.975\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+%-----------------------------------------------------------
+
+\begin{document}
+\hspace{0.5cm}\\[-0.2cm]
+
+\textbf{Harshit Mittal} \\
+\indent Email-id : \textbf{\url{harshitmittal5304845@gmail.com}} \\
+\indent Mobile No.: \textbf{7017279632} \ \\
+\indent \textbf{\url{https://github.com/harshitmittal5304845}}\\
+\indent \textbf{\url{https://www.cloudskillsboost.google/public_profiles/a9798da4-1a86-47be-8e90-8c06694be845}}\\
+
+\resheading{\textbf{ACADEMIC DETAILS} }\\[\lsep]
+\\
+%\begin{table}[ht!]
+%\begin{center}
+\indent \rule{6.8in}{0.4pt}\\
+\indent \begin{tabular}{ l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} }
+\noindent \textbf{Year} & \textbf{Degree/Exam} & \textbf{Institute} & \textbf{GPA/Marks(\%)}\\
+
+Aug, 2019 - Present & B.TECH in Computer Science & Graphic Era Hill University Dehradun & 7.77/10.0  \\
+2019 & 12^{th},\ C.B.S.E & Kendriya Vidyalaya Ongc school & 61.40 \% \\
+2016 & 10^{th},\ C.B.S.E & Kendriya Vidyalaya Ongc school & 8.2/10.0 \\
+
+\end{tabular}
+
+\indent \rule{6.8in}{0.4pt}
+%\end{center}
+%\end{table}
+\\
+
+\resheading{\textbf{TEXT SUMMARIZER} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0.5em}
+\item \textbf{Title - }News Summarizer.
+\item \textbf{Supervisor - }Dr. Rakesh Patra
+\item \textbf{Description - } Developing software that can produce summaries from huge sets of information while maintaining the con News of information. The summary should be fluent and concise throughout.
+\end{itemize}
+
+\resheading{\textbf{INTERNSHIPS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0.5em}
+\item \textbf{Web Development, Digital Owl (Jan, 2022 - April, 2022) : }To develop websites using HTML, CSS, and WordPress. Created different websites by using PSD files for the website's pages and then turned them into a live website using HTML. Worked on cPanel, and MyPhpAdmin for creating the websites. One of the  website is having URL  
+\url{http://www.watchdogevents.in/}
+\item \textbf{WordPress Development, Web Prism Technologies (Oct, 2021 - Dec, 2021) : }Created websites using WordPress. Created different websites with the content provided by the clients and then use them accordingly to create good websites.
+\end{itemize}
+
+\resheading{\textbf{PROJECTS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0.5em}
+\item \textbf{Learning Management System} (Jan, 2020 - Apr, 2020) : Built a learning management system that is used to create and manage online courses on the websites. 
+\item \textbf{Google Cloud Computing Foundations} (Aug, 2020 - Nov, 2020) : Completed this course which provides me the experience in cloud computing, a detailed overview of concepts covering cloud basics, big data, and machine learning, and where and how the Google Cloud platform fits in. 
+\item \textbf{Face Recognition Attendance System} (Aug, 2021 - Dec, 2021) : The project was developed using "OpenCV Python", with the help of some machine learning techniques the project was able to recognize faces and marks attendance on the excel attendance sheet with date and time. 
+\item \textbf{Chatbot} (Jan, 2022 - April, 2022) : Created a Chatbot which is used by students to get their queries responded to easily from the college website. It has the capacity to make friendly conversations related to courses, faculties, fees, etc based on the input asked by the students.
+\item \textbf{Multiplayer game - DOTA} (June, 2022 - Aug, 2022) : Developed a multiplayer game like DOTA, the game can be
+played in both single-player and multiplayer modes. AI techniques were used for BOTS.
+
+\end{itemize}
+
+\resheading{\textbf{TECHNICAL SKILLS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{Languages} \textbf{Python} (proficient), \textbf{Javascript} (proficient), \textbf{C} (proficient), \textbf{C++} (proficient), \textbf{HTML}, \textbf{SQL}, \textbf{PHP}, \textbf{Java}.\\
+ \item \noindent\textbf{Tools and Frameworks} ReactJS,\ OpenGL,\ WordPress,\ Bootstrap,\ GitHub,\ Android Studio, VS Code, \LaTeX.\\
+\item \noindent \textbf{Machine Learning Tools} Tensorflow, Keras, scikit-learn.
+\end{itemize}
+
+\resheading{\textbf{SCHOLASTIC AND CO-SCHOLASTIC ACHIEVEMENTS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{Google Readiness Program - } Selected and Completed the Google Cloud Career Readiness Program.
+\item \noindent\textbf{Cloud Skill Boost - }Secured 14 badges in Google Cloud Skill Boost by completing different google cloud labs.
+\item \noindent\textbf{LeetCode - }2.5 star holder and 150+ problems solved
+\end{itemize}
+
+\resheading{\textbf{POSITIONS OF RESPONSIBILITY} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{Team Leader, Digital Owl} As a Team leader, my responsibility is to cover all aspects of creating a website and accordingly assign roles to the teammates to complete the projects on time.  
+\item \noindent \textbf{Organising Member of Gra Fest-2019} Participated as an active team member of the Gra Fest organizing team and help in the management and success of the program.
+\end{itemize}
+\end{document}
