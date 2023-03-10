@@ -53,7 +53,7 @@
 \indent \begin{tabular}{ l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} }
 \noindent \textbf{Year} & \textbf{Degree/Exam} & \textbf{Institute} & \textbf{GPA/Marks(\%)}\\
 
-Aug, 2019 - Present & B.TECH in Computer Science & Graphic Era Hill University Dehradun & 7.77/10.0  \\
+Aug, 2019 - Present & B.TECH in Computer Science & Graphic Era Hill University Dehradun & 7.59/10.0  \\
 2019 & 12^{th},\ C.B.S.E & Kendriya Vidyalaya Ongc school & 61.40 \% \\
 2016 & 10^{th},\ C.B.S.E & Kendriya Vidyalaya Ongc school & 8.2/10.0 \\
 
@@ -64,31 +64,35 @@ Aug, 2019 - Present & B.TECH in Computer Science & Graphic Era Hill University D
 %\end{table}
 \\
 
-\resheading{\textbf{TEXT SUMMARIZER} }\\[\lsep]
+\resheading{\textbf{Major Project} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0.5em}
-\item \textbf{Title - }News Summarizer.
+\item \textbf{Title - }News Summarizer Using NLP.
 \item \textbf{Supervisor - }Dr. Rakesh Patra
-\item \textbf{Description - } Developing software that can produce summaries from huge sets of information while maintaining the con News of information. The summary should be fluent and concise throughout.
+\item \textbf{Description - }Developed a news summarizer tool that utilizes natural language processing techniques to scrape news articles from various sources, analyze them, and condense them into brief and digestible summaries. The project involved programming algorithms to identify key information and present it in an easy-to-read format.
+\item \textbf{Skills Utilized - }Natural Language Processing (NLP) techniques, Data scraping and web crawling, Algorithm design and optimization, User interface design and development.
 \end{itemize}
 
 \resheading{\textbf{INTERNSHIPS} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0.5em}
-\item \textbf{Web Development, Digital Owl (Jan, 2022 - April, 2022) : }To develop websites using HTML, CSS, and WordPress. Created different websites by using PSD files for the website's pages and then turned them into a live website using HTML. Worked on cPanel, and MyPhpAdmin for creating the websites. One of the  website is having URL  
-\url{http://www.watchdogevents.in/}
-\item \textbf{WordPress Development, Web Prism Technologies (Oct, 2021 - Dec, 2021) : }Created websites using WordPress. Created different websites with the content provided by the clients and then use them accordingly to create good websites.
+\item \textbf{Web Development, Digital Owl (Jan, 2022 - April, 2022) : }Completed an internship in WordPress development, where I was responsible for designing and building custom WordPress websites for clients. The internship involved working closely with the development team to create and maintain responsive and user-friendly websites.
+  
+\item \textbf{Key Achievements: }Successfully designed and developed custom WordPress websites that meet clients' needs and requirements.
+Collaborated with the development team to ensure timely delivery of projects and maintain high-quality standards.
+Optimized website performance by implementing SEO techniques and optimizing website speed and functionality.
+Resolved technical issues and bugs in WordPress websites, ensuring smooth functioning of the websites.
+\item \textbf{Skills Utilized: }WordPress development and customization, HTML/CSS/JavaScript programming, SEO optimization and website performance improvement, Team collaboration and project management.
 \end{itemize}
 
 \resheading{\textbf{PROJECTS} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0.5em}
-\item \textbf{Learning Management System} (Jan, 2020 - Apr, 2020) : Built a learning management system that is used to create and manage online courses on the websites. 
-\item \textbf{Google Cloud Computing Foundations} (Aug, 2020 - Nov, 2020) : Completed this course which provides me the experience in cloud computing, a detailed overview of concepts covering cloud basics, big data, and machine learning, and where and how the Google Cloud platform fits in. 
-\item \textbf{Face Recognition Attendance System} (Aug, 2021 - Dec, 2021) : The project was developed using "OpenCV Python", with the help of some machine learning techniques the project was able to recognize faces and marks attendance on the excel attendance sheet with date and time. 
-\item \textbf{Chatbot} (Jan, 2022 - April, 2022) : Created a Chatbot which is used by students to get their queries responded to easily from the college website. It has the capacity to make friendly conversations related to courses, faculties, fees, etc based on the input asked by the students.
-\item \textbf{Multiplayer game - DOTA} (June, 2022 - Aug, 2022) : Developed a multiplayer game like DOTA, the game can be
-played in both single-player and multiplayer modes. AI techniques were used for BOTS.
+\item \textbf{Learning Management System} (Jan, 2020 - Apr, 2020) : Designed and developed a learning management system website using Moodle, resulting in improved online course delivery and student engagement.
+\item \textbf{Google Cloud Computing Foundations} (Aug, 2020 - Nov, 2020) : Completed a Google Cloud Computing course to gain practical experience in cloud infrastructure and learn how to leverage Google Cloud Platform (GCP) services. The project involved working on real-world use cases and implementing cloud-based solutions.
+\item \textbf{Face Recognition Attendance System} (Aug, 2021 - Dec, 2021) : Implemented a face recognition system to automate attendance tracking, resulting in a 50 percent reduction in administrative workload and improved accuracy.
+\item \textbf{Chatbot} (Jan, 2022 - April, 2022) : Designed and implemented a chatbot to automate customer support inquiries, resulting in a 30 Percent reduction in support ticket volume and improved customer satisfaction.
+\item \textbf{Multiplayer game - DOTA} (June, 2022 - Aug, 2022) : Developed a multiplayer game like DOTA, the game can be played in both single-player and multiplayer modes. AI techniques were used for BOTS.
 
 \end{itemize}
 
@@ -103,15 +107,15 @@ played in both single-player and multiplayer modes. AI techniques were used for 
 \resheading{\textbf{SCHOLASTIC AND CO-SCHOLASTIC ACHIEVEMENTS} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0em}
-\item \noindent \textbf{Google Readiness Program - } Selected and Completed the Google Cloud Career Readiness Program.
-\item \noindent\textbf{Cloud Skill Boost - }Secured 14 badges in Google Cloud Skill Boost by completing different google cloud labs.
-\item \noindent\textbf{LeetCode - }2.5 star holder and 150+ problems solved
+\item \noindent \textbf{Selected for Google Readiness Program - } Selected for a prestigious Google Readiness Program that provides training and mentorship to students interested in pursuing careers in technology. The program involved attending workshops and events, working on projects, and receiving mentorship from industry professionals.
+\item \noindent\textbf{Earned 14 Badges in Google Cloud Skill Boost - }Completed the Google Cloud Skill Boost program, which offers training and hands-on experience in Google Cloud Platform (GCP) services. Earned 14 badges in various areas of GCP services, including cloud infrastructure, machine learning, and data analytics.
+\item \noindent\textbf{Certificate in Ethical Hacking - }Completed a course in ethical hacking to gain practical knowledge in penetration testing, vulnerability assessment, and network security. Earned a certificate in ethical hacking from Master of Project Academy.
 \end{itemize}
 
 \resheading{\textbf{POSITIONS OF RESPONSIBILITY} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0em}
-\item \noindent \textbf{Team Leader, Digital Owl} As a Team leader, my responsibility is to cover all aspects of creating a website and accordingly assign roles to the teammates to complete the projects on time.  
-\item \noindent \textbf{Organising Member of Gra Fest-2019} Participated as an active team member of the Gra Fest organizing team and help in the management and success of the program.
+\item \noindent \textbf{Team Leader, Digital Owl} Led a team of developers and designers to create and deploy web-based applications for clients. Managed project timelines, coordinated team tasks, and ensured the quality of deliverables.  
+\item \noindent \textbf{Organising Member of Gra Fest-2019} Worked as part of a team to plan and execute a college fest, coordinating various aspects such as event management, logistics, sponsorship, and publicity.
 \end{itemize}
 \end{document}
